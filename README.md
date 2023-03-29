@@ -5,11 +5,6 @@
 
 
 
-<img width="956" alt="image" src="https://user-images.githubusercontent.com/70687244/228217432-d889900a-ea81-4ec6-bf64-90d258882686.png">
-
-<img width="866" alt="image" src="https://user-images.githubusercontent.com/70687244/228217682-e11837de-d4ad-4267-b376-9fc0de3194f9.png">
-
-
 1.系统具体需求
 
 （1）首先进入系统登录界面，可选登录身份有：
@@ -29,8 +24,6 @@
    · 老师需要输入：职工号，姓名，登录密码
    
    · 管理员需要输入：管理员姓名，登录密码
-   
-
 
 （3）学生具体功能
 
@@ -44,7 +37,6 @@
    
    · 注销登录 -- 退出登录
 
-
 （4）教师具体功能
 
    · 查看所有预约 -- 查看全部预约信息以及预约状态
@@ -52,8 +44,6 @@
    · 审核预约 -- 对学生的预约进行审核
 
    · 注销登录 -- 退出登录
-
-
 
 （5）管理员具体功能
 
@@ -68,5 +58,11 @@
    · 注销登录 -- 退出登录
 
 
+
+
+效果展示：
+<img width="956" alt="image" src="https://user-images.githubusercontent.com/70687244/228217432-d889900a-ea81-4ec6-bf64-90d258882686.png">
+
+<img width="866" alt="image" src="https://user-images.githubusercontent.com/70687244/228217682-e11837de-d4ad-4267-b376-9fc0de3194f9.png">
 
 
