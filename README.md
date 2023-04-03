@@ -60,7 +60,7 @@
 
 
 
-效果展示：
+2.界面展示
 <img width="956" alt="image" src="https://user-images.githubusercontent.com/70687244/228217432-d889900a-ea81-4ec6-bf64-90d258882686.png">
 
 <img width="866" alt="image" src="https://user-images.githubusercontent.com/70687244/228217682-e11837de-d4ad-4267-b376-9fc0de3194f9.png">
